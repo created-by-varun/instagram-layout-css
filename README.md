@@ -1,6 +1,4 @@
-# instagram-layout-css
-A replica of the instagram user profile layout
-
+# A replica of the Desktop site of instagram profile
 #### Live Demo: https://created-by-varun.github.io/instagram-layout-css/
 
 #### Preview:
